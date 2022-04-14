@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/tp1-memo-solution/static/css/main.4f491b33.css",
+    "main.js": "/tp1-memo-solution/static/js/main.86a7c18e.js",
+    "index.html": "/tp1-memo-solution/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4f491b33.css",
+    "static/js/main.86a7c18e.js"
+  ]
+}
